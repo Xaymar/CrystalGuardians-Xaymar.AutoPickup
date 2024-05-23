@@ -1,0 +1,2 @@
+== AutoPickup (Crystal Guardians)
+Replaces the annoying Hide & Seek game with item drops by just automatically picking them up.

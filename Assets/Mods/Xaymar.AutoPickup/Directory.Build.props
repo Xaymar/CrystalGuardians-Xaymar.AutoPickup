@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+	<OutputPath>..\..\..\BepInEx\plugins\$(SolutionName)</OutputPath>
+	<BaseIntermediateOutputPath>..\..\..\obj</BaseIntermediateOutputPath>
+  </PropertyGroup>
+</Project>
